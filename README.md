@@ -12,4 +12,4 @@ An example interactive visualization of an <i>index_latest.txt</i> from http://m
 </ul>
 
 # Screenshot
-[[https://github.com/kriete/CMEMS_folium/blob/master/img/example_output.png|alt=octocat]]
+![...](/img/example_output.png?raw=true "Folium Visualization")
