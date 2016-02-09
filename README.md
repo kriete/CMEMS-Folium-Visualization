@@ -3,10 +3,13 @@ An ipython notebook. Also view on <a href="http://nbviewer.jupyter.org/github/kr
 Contains an example folium visualization (leaflet based) of latest CMEMS data points.
 
 # Purpose
-An example visualization of an <i>index_latest.txt</i> from http://marine.copernicus.eu/.
+An example interactive visualization of an <i>index_latest.txt</i> from http://marine.copernicus.eu/.
 
 # Dependencies
 <ul>
   <li>folium</li>
   <li>numpy</li>
 </ul>
+
+# Screenshot
+[[https://github.com/kriete/CMEMS_folium/blob/master/img/example_output.png|alt=octocat]]
