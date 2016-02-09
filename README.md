@@ -1,6 +1,10 @@
 # CMEMS_folium
 An ipython notebook. Also view on <a href="http://nbviewer.jupyter.org/github/kriete/CMEMS_folium/blob/master/CMEMS%20Folium%20Visalization.ipynb">nbviewer</a>.<br>
-Contains an example folium visualization (leaflet based) of latest CMEMS data points.
+Contains an example folium visualization (leaflet based) of latest CMEMS data points.<br><br>
+### HTML output:
+To go directly to the html output:<br>
+<a href="http://htmlpreview.github.io/?https://github.com/kriete/CMEMS_folium/blob/master/CMEMS_latest_index.html">Rendered HTML</a><br>
+<a href="https://raw.githubusercontent.com/kriete/CMEMS_folium/master/CMEMS_latest_index.html">Raw HTML</a>
 
 # Purpose
 An example interactive visualization of an <i>index_latest.txt</i> from http://marine.copernicus.eu/.
