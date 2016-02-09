@@ -11,7 +11,7 @@ An example interactive visualization of an <i>index_latest.txt</i> from http://m
   <li>numpy</li>
 </ul>
 
-# Screenshot
+# Screenshots
 ## Overview
 ![...](/img/example_output.png?raw=true "Folium Visualization")
 ## Zoomed
