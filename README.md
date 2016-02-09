@@ -12,4 +12,7 @@ An example interactive visualization of an <i>index_latest.txt</i> from http://m
 </ul>
 
 # Screenshot
+## Overview
 ![...](/img/example_output.png?raw=true "Folium Visualization")
+## Zoomed
+![...](/img/example_zoom_output.png?raw=true "Folium Zoomed Visualization")
