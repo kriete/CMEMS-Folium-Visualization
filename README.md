@@ -20,3 +20,5 @@ An example interactive visualization of an <i>index_latest.txt</i> from http://m
 ![...](/img/example_output.png?raw=true "Folium Visualization")
 ## Zoomed
 ![...](/img/example_zoom_output.png?raw=true "Folium Zoomed Visualization")
+## Other Base Layer
+![...](/img/example_ocean_base.png?raw=true "Folium Other Base Layer")
