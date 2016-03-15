@@ -1,5 +1,5 @@
 # CMEMS_folium
-An ipython notebook. Also view on <a href="http://nbviewer.jupyter.org/github/kriete/CMEMS_folium/blob/master/CMEMS%20Folium%20Visalization.ipynb">nbviewer</a>.<br>
+An ipython notebook. Also view on <a href="http://nbviewer.jupyter.org/github/kriete/CMEMS_folium/blob/master/CMEMS_Folium_Visalization.ipynb">nbviewer</a>.<br>
 Contains an example folium visualization (leaflet based) of latest CMEMS data points.<br><br>
 ### HTML output:
 To go directly to the html output:<br>
