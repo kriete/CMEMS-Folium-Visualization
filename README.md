@@ -7,7 +7,7 @@ To go directly to the html output:<br>
 <a href="https://raw.githubusercontent.com/kriete/CMEMS_folium/master/CMEMS_latest_index.html">Raw HTML</a>
 
 # Purpose
-An example interactive visualization of an <i>index_latest.txt</i> from http://marine.copernicus.eu/.
+An example interactive visualization of an <i>index_latest.txt</i> from the [Copernicus Marine Environment Monitoring Service](http://marine.copernicus.eu/). 
 
 # Dependencies
 <ul>
